@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="github" fetch="https://github.com/" />
+    <default revision="master" remote="github" sync-j="4" />
+
+    <project path="openwebos/qt" name="openwebos/qt"/>
+    <project path="openwebos/novacomd" name="openwebos/novacomd"/>
+    <project path="openwebos/novacom" name="openwebos/novacom"/>
+    <project path="openwebos/pmloglib" name="openwebos/pmloglib"/>
+    <project path="openwebos/luna-service2" name="openwebos/luna-service2"/>
+    <project path="openwebos/sleepd" name="openwebos/sleepd"/>
+    <project path="openwebos/storaged" name="openwebos/storaged"/>
+    <project path="openwebos/powerd" name="openwebos/powerd"/>
+    <project path="openwebos/nyx-lib" name="openwebos/nyx-lib"/>
+    <project path="openwebos/cjson" name="openwebos/cjson"/>
+    <project path="openwebos/nodejs" name="openwebos/nodejs"/>
+    <project path="openwebos/db8" name="openwebos/db8"/>
+
+    <project path="isis-project/BrowserServer" name="isis-project/BrowserServer"/>
+    <project path="isis-project/WebKit" name="isis-project/WebKit"/>
+    <project path="isis-project/npapi-headers" name="isis-project/npapi-headers"/>
+    <project path="isis-project/WebKitSupplemental" name="isis-project/WebKitSupplemental"/>
+    <project path="isis-project/isis-browser" name="isis-project/isis-browser"/>
+    <project path="isis-project/pbnjson" name="isis-project/pbnjson"/>
+    <project path="isis-project/BrowserAdapter" name="isis-project/BrowserAdapter"/>
+    <project path="isis-project/AdapterBase" name="isis-project/AdapterBase"/>
+
+    <project path="enyojs/gallery" name="enyojs/gallery"/>
+    <project path="enyojs/layout" name="enyojs/layout"/>
+    <project path="enyojs/onyx" name="enyojs/onyx"/>
+    <project path="enyojs/enyo" name="enyojs/enyo"/>
+    <project path="enyojs/bootplate" name="enyojs/bootplate"/>
+    <project path="enyojs/extra" name="enyojs/extra"/>
+    <project path="enyojs/ares-project" name="enyojs/ares-project"/>
+    <project path="enyojs/canvas" name="enyojs/canvas"/>
+    <project path="enyojs/enyo-1.0" name="enyojs/enyo-1.0"/>
+</manifest>
