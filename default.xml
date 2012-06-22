@@ -16,6 +16,8 @@
     <project path="openwebos/nodejs" name="openwebos/nodejs"/>
     <project path="openwebos/db8" name="openwebos/db8"/>
 
+    <project path="isis-project/isis-project" name="isis-project/isis-project"/>
+    <project path="isis-project/isis-fonts" name="isis-project/isis-fonts"/>
     <project path="isis-project/BrowserServer" name="isis-project/BrowserServer"/>
     <project path="isis-project/WebKit" name="isis-project/WebKit"/>
     <project path="isis-project/npapi-headers" name="isis-project/npapi-headers"/>
@@ -25,7 +27,6 @@
     <project path="isis-project/BrowserAdapter" name="isis-project/BrowserAdapter"/>
     <project path="isis-project/AdapterBase" name="isis-project/AdapterBase"/>
 
-    <project path="enyojs/gallery" name="enyojs/gallery"/>
     <project path="enyojs/layout" name="enyojs/layout"/>
     <project path="enyojs/onyx" name="enyojs/onyx"/>
     <project path="enyojs/enyo" name="enyojs/enyo"/>
