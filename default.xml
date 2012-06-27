@@ -35,4 +35,8 @@
     <project path="enyojs/ares-project" name="enyojs/ares-project"/>
     <project path="enyojs/canvas" name="enyojs/canvas"/>
     <project path="enyojs/enyo-1.0" name="enyojs/enyo-1.0"/>
+
+    <project path="woce/build-support" name="woce/build-support"/>
+    <project path="woce/LunaSysMgr" name="woce/LunaSysMgr"/>
+    <project path="woce/woce-build" name="woce/woce-build"/>
 </manifest>
