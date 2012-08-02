@@ -15,6 +15,14 @@
     <project path="openwebos/cjson" name="openwebos/cjson"/>
     <project path="openwebos/nodejs" name="openwebos/nodejs"/>
     <project path="openwebos/db8" name="openwebos/db8"/>
+    <project path="openwebos/app-services" name="openwebos/app-services"/>
+    <project path="openwebos/loadable-frameworks" name="openwebos/loadable-frameworks"/>
+    <project path="openwebos/luna-sysmgr" name="openwebos/luna-sysmgr"/>
+    <project path="openwebos/core-apps" name="openwebos/core-apps"/>
+    <project path="openwebos/luna-sysmgr-ipc" name="openwebos/luna-sysmgr-ipc"/>
+    <project path="openwebos/luna-sysmgr-ipc-messages" name="openwebos/luna-sysmgr-ipc-messages"/>
+    <project path="openwebos/configurator" name="openwebos/configurator"/>
+    <project path="openwebos/luna-webkit-api" name="openwebos/luna-webkit-api"/>
 
     <project path="isis-project/isis-project" name="isis-project/isis-project"/>
     <project path="isis-project/isis-fonts" name="isis-project/isis-fonts"/>
@@ -26,6 +34,7 @@
     <project path="isis-project/pbnjson" name="isis-project/pbnjson"/>
     <project path="isis-project/BrowserAdapter" name="isis-project/BrowserAdapter"/>
     <project path="isis-project/AdapterBase" name="isis-project/AdapterBase"/>
+    <project path="isis-project/isis2" name="isis-project/isis2"/>
 
     <project path="enyojs/layout" name="enyojs/layout"/>
     <project path="enyojs/onyx" name="enyojs/onyx"/>
@@ -39,4 +48,8 @@
     <project path="woce/build-support" name="woce/build-support"/>
     <project path="woce/LunaSysMgr" name="woce/LunaSysMgr"/>
     <project path="woce/woce-build" name="woce/woce-build"/>
+
+    <project path="webos-internals/meta-doctor" name="webos-internals/meta-doctor"/>
+
+    <project path="oe/meta-woce" name="kraj/meta-woce"/>
 </manifest>
